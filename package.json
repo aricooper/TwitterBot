@@ -8,6 +8,7 @@
         "client",
         "browser"
     ],
+    "start": "node bot.js"
     "author": "Ari",
     "contributors": [],
     "dependencies": {
