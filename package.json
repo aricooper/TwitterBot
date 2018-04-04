@@ -1,15 +1,8 @@
 {
     "name": "TwitterBot",
     "version": "1.0.0",
-    "keywords": [
-        "util",
-        "functional",
-        "server",
-        "client",
-        "browser"
-    ],
     "scripts": {
-    "start": "node bot.js"
+        "start": "node bot.js"
     },
     "author": "Ari",
     "contributors": [],
