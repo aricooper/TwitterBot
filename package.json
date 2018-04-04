@@ -1,0 +1,16 @@
+{
+    "name": "TwitterBot",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Ari",
+    "contributors": [],
+    "dependencies": {
+        "twit": "2.2.9"
+    }
+}
